@@ -1,0 +1,333 @@
+
+
+
+
+* {
+    margin: 0;
+    /* padding: 0; */
+}
+
+h2 {
+    color: white;
+}
+
+.div_logo {
+    background-color: rgb(23, 23, 58);
+    width: 100%;
+    height: 140px;
+    display: flex;
+    /* justify-content: center; */
+    gap: 900px;
+    align-items: center;
+}
+
+.car_logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    /* background-color: white; */
+    margin-left: 20px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+ul li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: darkmagenta;
+    font-size: large;
+    font-weight: 800;
+}
+
+a:hover {
+    border: 2px solid rgb(204, 0, 255);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+.call {
+    width: 30px;
+    height: 30px;
+}
+
+/* .first_div {
+    width: 100%;
+    height: 600px;
+    background-color: rgba(119, 0, 119, 0.836);
+} */
+
+.first_div {
+    display: flex;
+}
+
+
+h3 {
+    font-size: 70px;
+    text-align: center;
+}
+
+.saralavha_p {
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.sarlavha {
+    border: 5px solid rgba(119, 0, 119, 0.836);
+    border-right: none;
+    text-align: center;
+    width: 600px;
+    height: 600px;
+    background-color: white;
+}
+
+#newlogo {
+    border: 2px solid grey;
+    border-right: none;
+    border-left: none;
+    width: 450px;
+    height: 300px;
+}
+
+.car_img {
+    text-align: end;
+    width: 100%;
+    height: 610px;
+    background-color: rgba(119, 0, 119, 0.836);
+}
+
+h4 {
+    text-align: start;
+    font-size: 30px;
+    color: white;
+}
+
+.BYD {
+    background-color: white;
+    width: 600px;
+    height: 400px;
+    border-radius: 100%;
+    border: 4px solid rgb(90, 90, 245);
+    border-top: none;
+}
+
+ol li {
+    color: white;
+    text-align: start;
+}
+
+.secon_two {
+    color: black;
+    text-align: center;
+}
+
+/* .kiacarne_img {
+    width: 500px;
+    height: 300px;
+    background-color:gray;
+} */
+
+.birinchi_mashina {
+    width: 600px;
+    height: 350px;
+    background-color: white;
+    border: 3px solid rgba(119, 0, 119, 0.836);
+}
+
+.kiaCar {
+    width: 600px;
+    border: 3px solid rgba(119, 0, 119, 0.836);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.KIA_ol li {
+    color: black;
+}
+
+.KIA24 {
+    text-align: center;
+}
+
+.KIA244 {
+    text-align: center;
+}
+
+.KIA244 span {
+    text-decoration: line-through;
+    color: grey;
+}
+
+.mashinalar_jadvali {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+}
+
+.btn_kia {
+    font-weight: 700;
+    width: 140px;
+    height: 30px;
+    border: 3px solid rgba(119, 0, 119, 0.836);
+    border-radius: 20px;
+    background-color: rgba(137, 43, 226, 0.377);
+}
+
+.btn_kia:hover {
+    font-weight: 700;
+    width: 140px;
+    height: 30px;
+    border: 3px solid red;
+    border-radius: 20px;
+    background-color: rgba(43, 226, 73, 0.377);
+}
+
+.vols {
+    width: 400px;
+    height: 300px;
+    /* border: 3px solid rgba(119, 0, 119, 0.836); */
+
+}
+
+.vols_img {
+    text-align: center;
+    border: 3px solid rgba(119, 0, 119, 0.836);
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+
+.ikkinchi_mashina {
+    width: 600px;
+    height: 350px;
+    background-color: white;
+    border: 3px solid rgba(119, 0, 119, 0.836);
+}
+
+.vols1 {
+    text-align: center;
+}
+
+.vols2 {
+    text-align: center;
+}
+
+.vols2 span {
+    text-decoration: line-through;
+    color: grey;
+}
+
+
+.btn_vols {
+    font-weight: 700;
+    width: 140px;
+    height: 30px;
+    border: 3px solid rgba(119, 0, 119, 0.836);
+    border-radius: 20px;
+    background-color: rgba(137, 43, 226, 0.377);
+}
+
+.btn_vols:hover {
+    font-weight: 700;
+    width: 140px;
+    height: 30px;
+    border: 3px solid red;
+    border-radius: 20px;
+    background-color: rgba(43, 226, 73, 0.377);
+}
+
+.NEGA {
+    color: black;
+    text-align: center;
+}
+
+.nega_jadval {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    text-align: center;
+}
+
+
+
+#byddumalo {
+    width: 400px;
+    height: 300px;
+    border: 2px solid rgba(119, 0, 119, 0.836);
+    border-radius: 100%;
+}
+
+#benzin {
+    width: 400px;
+    height: 300px;
+    border: 4px solid rgba(119, 0, 119, 0.836);
+    border-radius: 100%;
+}
+
+#dokument {
+    width: 400px;
+    height: 300px;
+    border: 3px solid rgba(119, 0, 119, 0.836);
+    border-radius: 100%;
+}
+
+#nomerUZ {
+    width: 400px;
+    height: 100px;
+    border: 4px solid rgba(119, 0, 119, 0.836);
+    border-radius: 10px;
+}
+
+
+.dumolo_first {
+    font-weight: 600;
+}
+
+
+.div1 {
+    width: 300px;
+}
+
+
+
+footer {
+    background-color:rgb(23, 23, 58);
+    padding: 20px 0;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer-container div {
+    border: 2px solid rgba(119, 0, 119, 0.836); /* Border rangi */
+    border-width: 3px; /* Borderning qalinligi */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+}
+
+.footer-logo img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.footer-info, .footer-location {
+    font-size: 16px;
+    color: #333;
+}
+

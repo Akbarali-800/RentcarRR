@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    color: white;
+}
+
+
+.div_logo {
+    background-color: rgb(23, 23, 58);
+    /* width: 100%; */
+    height: 140px;
+    display: flex;
+    /* justify-content: center; */
+    gap: 900px;
+    align-items: center;
+}
+
+
+.car_logo {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    /* background-color: white; */
+    margin-left: 20px;
+}
+
+a {
+    text-decoration: none;
+    /* color: darkmagenta; */
+    font-size: large;
+    font-weight: 800;
+}
+
+a:hover {
+    border: 2px solid rgb(204, 0, 255);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
+.call {
+    width: 30px;
+    height: 30px;
+}
+
+.monza_ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 100px;
+}
+
+
+
+
+.kia_h1 {
+    margin-top: 100px;
+    margin-left: 40px;
+}
+
+
+
+.sing_up {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+}
+
+.kiak5_png {
+    border-radius: 10px;
+    border: 3px solid rgb(204, 0, 255);
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.kiak5_btn1 {
+    /* margin-top: 30px; */
+    /* margin-left: 500px; */
+    font-weight: 700;
+    width: 300px;
+    height: 40px;
+    border: 2px solid rgb(204, 0, 255);
+    border-radius: 10px;
+}
+
+.kiak5_btn1:hover {
+    font-weight: 700;
+    width: 300px;
+    height: 40px;
+    color: white;
+    background-color: rgb(204, 0, 255);
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.jadval2 {
+    width: 400px;
+    height: 450px;
+    border-radius: 50px;
+    border: 2px solid rgb(204, 0, 255);
+    background-color: rgba(23, 23, 58, 0.555);
+}
+
+.kiak5_h3{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+#input1 {
+    width: 300px;
+    height: 30px;
+    border: 2px solid rgb(204, 0, 255);
+    border-radius: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#input1:hover {
+    border: 2px solid rgb(76, 124, 4);
+    border-radius: 10px;
+}
+
+
+.kiak5_btn {
+    width: 100px;
+    height: 40px;
+    border: 2px solid rgb(204, 0, 255);
+    border-radius: 10px;
+}
+
+.kiak5_btn:hover {
+    width: 100px;
+    height: 40px;
+    color: white;
+    background-color: rgb(204, 0, 255);
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.chiziq1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-radius: 10px;
+    border: 2px solid rgb(204, 0, 255);
+}
+
+
+.kiak5_h2 {
+    color: black;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.kiak5_p2 {
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+.main_ul {
+    margin-left: 70px;
+}
+
+.kiak5_sahifa {
+    font-weight: 700;
+    width: 300px;
+    height: 40px;
+    border: 2px solid rgb(204, 0, 255);
+    border-radius: 10px;
+}
+
+.kiak5_sahifa:hover {
+    font-weight: 700;
+    width: 300px;
+    height: 40px;
+    color: white;
+    background-color: rgb(204, 0, 255);
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+footer {
+    background-color: rgb(23, 23, 58);
+    padding: 20px 0;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.footer-container div {
+    border: 2px solid rgba(119, 0, 119, 0.836);
+    /* Border rangi */
+    border-width: 3px;
+    /* Borderning qalinligi */
+    border-radius: 10px;
+    padding: 20px;
+    margin: 10px;
+    width: 200px;
+}
+
+.footer-logo img {
+    width: 100px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.footer-info,
+.footer-location {
+    font-size: 16px;
+    color: #333;
+}
